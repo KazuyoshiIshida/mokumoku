@@ -1,5 +1,0 @@
-下記のサイトにあるコードを調査しました。
-
-https://yukoishizaki.hatenablog.com/entry/2019/11/27/151018
-https://qiita.com/itok_msi/items/ad95425b6773985ef959
-https://github.com/nn116003/self-attention-classification
